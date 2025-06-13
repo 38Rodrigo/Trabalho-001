@@ -1,44 +1,45 @@
-*{
-    margin:20px;
+* {
+  margin: 20px;
 }
 
-body{
-    background-color:hsl(188, 29%, 67%);
+body {
+  background-color: hsl(188, 29%, 67%);
 }
 h1 {
-    margin:50px;
-    color: rgb(247, 6, 6);
-    text-align: center;
+  margin: 50px;
+  color: rgb(247, 6, 6);
+  text-align: center;
 }
-p { 
-    margin:60px;
-    font-size:20px;
-    text-align:;
+p {
+  margin: 60px;
+  font-size: 20px;
+  text-align: justify;
+}
+#musica {
+  border-radius: 50%;
+  height: 150px;
 }
 img {
-    margin: 10px;
-    border-radius:20%;
-    width:200px ;
-    height:150px ;
+  margin: 10px;
+  border-radius: 20%;
+  width: 225px;
+  height: 115px;
 }
 tr td {
-    background-color: rgb(255, 255, 255);
-    padding:10px;
-    text-align: center;  
-    margin:30px;
+  background-color: rgb(255, 255, 255);
+  padding: 10px;
+  text-align: center;
+  margin: 30px;
 }
 .link {
-    background-color: rgb(255, 255, 255);
-    padding: 10px;
-    color:rgb(8, 8, 8);
-    font-size:20px;
-    text-decoration:none;
-    border-radius:20%; 
+  background-color: rgb(255, 255, 255);
+  padding: 10px;
+  color: rgb(8, 8, 8);
+  font-size: 20px;
+  text-decoration: none;
+  border-radius: 20%;
 }
- .link:hover {
-    background-color: rgb(221, 245, 6);
-    color: rgb(243, 6, 6);
- 
+.link:hover {
+  background-color: rgb(221, 245, 6);
+  color: rgb(243, 6, 6);
 }
-
-
