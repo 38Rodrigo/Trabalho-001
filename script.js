@@ -1,5 +1,18 @@
-let botao = document.querySelector("#botao");
+
+function mensagemtxt(){
+
+    document.getElementById("mensagem")
+    .innerHTML="<h3>A persistência é o caminho do êxito !</h3>"
+}
+   
 
 
 
-display.log("Olá este é o meu primeiro trabalho do curso de engenharia de software!");
+
+
+
+
+
+
+
+
